@@ -1,3 +1,5 @@
+<img width="1194" height="936" alt="image" src="https://github.com/user-attachments/assets/8809c995-9135-4a81-8848-2f29ca8399f1" />
+
 ### usage: python JumpKing.py
 
 ### Migam King
