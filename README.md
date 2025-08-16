@@ -1,4 +1,4 @@
-### usage: python jumpking.py
+### usage: python JumpKing.py
 
 ### Migam King
 ### BoB Migam King을 만들었습니다.
