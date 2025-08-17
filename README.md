@@ -1,6 +1,6 @@
-<img width="1194" height="936" alt="image" src="https://github.com/user-attachments/assets/8809c995-9135-4a81-8848-2f29ca8399f1" />
+## HOW TO PLAY: python JumpKing.py
 
-### usage: python JumpKing.py
+<img width="1194" height="936" alt="image" src="https://github.com/user-attachments/assets/8809c995-9135-4a81-8848-2f29ca8399f1" />
 
 ### Migam King
 ### BoB Migam King을 만들었습니다.
