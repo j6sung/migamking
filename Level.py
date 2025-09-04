@@ -9,18 +9,22 @@ import collections
 import os
 import math
 import sys
+
 # from hiddenwalls import HiddenWalls
 from Platforms import Platforms
 from Background import Backgrounds
+
 # from Props import Props
 # from weather import Weathers
 from scrolling import Scrollers
 from BackgroundMusic import BackgroundAudio
+
 # from NPC import NPCs
 from Names import Names
 from Readable import Readables
 from Flyers import Flyers
 from Ending_Animation import Ending_Animation
+
 # from Wind import Wind
 
 
@@ -83,7 +87,7 @@ class Levels:
 
         self.midground = Backgrounds("MG").backgrounds
 
-        self.foreground = Backgrounds("FG").backgrounds
+        # self.foreground = Backgrounds("FG").backgrounds
 
         # self.props = Props().props
 
@@ -163,7 +167,7 @@ class Levels:
             #     current_level.npc.blitme(self.screen)
 
             # if current_level.weather:
-                # current_level.weather.blitme(self.screen, self.wind.rect)
+            # current_level.weather.blitme(self.screen, self.wind.rect)
 
         except Exception as e:
 
